@@ -4,4 +4,4 @@
 ## Задача 1.
 ###  7. Показать числа от -N до N
 
-[Блок-схема] (diagram1.drawio.png) | [КОД] (Program.cs)
+[Блок-схема](diagram1.drawio.png) | [КОД](Program.cs)
